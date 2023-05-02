@@ -25,7 +25,7 @@ If applicable, add screenshots to help explain your problem.
 
 **Environment (where are you running the Python Notebook):**
  - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
+ - Browser [e.g. chrome, safari, firefox]
  - Version [e.g. 22]
 
 **Additional context**
