@@ -52,3 +52,11 @@ Now we'll see that the columns are left alligned | The columns at the both end o
 Android | iOS | Windows
 --- | :---: | ---:
 ![](android.jpg) | ![](ios.png) | nothing
+
+## code examples:
+```csharp
+private void OnPropertyChanged(string propertyName)
+{
+   PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
+}
+```
