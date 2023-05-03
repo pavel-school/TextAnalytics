@@ -51,4 +51,4 @@ Now we'll see that the columns are left alligned | The columns at the both end o
 
 Android | iOS | Windows
 --- | :---: | ---:
-![](android.png) | ![](ios.png) | nothing
+![](android.jpg) | ![](ios.png) | nothing
