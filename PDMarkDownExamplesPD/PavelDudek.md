@@ -10,3 +10,31 @@ Any combination will work. _**bold italics**_
 ## Header 2
 ### Header 3
 ###### Header 6
+
+## Unordered list info:
+
+- first element of a list
+- add new things
+
+break the list
+
+- continue with the list
++ can also use the + sign
++ and another line in the plus list
+- another list
+    - sub-list 1
+    - sub-list 2
+        - 4 more spaces to add another sublist
+* can also use asterisk to distinguish yet another list
+
+## Ordered list info:
+
+1. first line
+2. second line
+34. number does not matter
+    1. sub-element
+    2. 2nd sub-element
+6. original element line
+
++ [ ] task1
++ [ ] task2
