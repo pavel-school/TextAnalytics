@@ -38,3 +38,17 @@ break the list
 
 + [ ] task1
 + [ ] task2
+
+## Tables and links
+
+Android | iOS | Windows
+--- | :---: | ----:
+Medium App for Android | Medium App for iOS | Medium App for Windows
+Now we'll see that the columns are left alligned | The columns at the both end of the separator line will center aligh | And a third one is right aligned
+[Play Store](https://play.google.com/store/apps/details?id=com.medium.reader&hl=en) | [App Store](https://itunes.apple.com/us/app/medium/id828256236?mt=8) | bla
+
+## Images and Videos
+
+Android | iOS | Windows
+--- | :---: | ---:
+![](android.png) | ![](ios.png) | nothing
